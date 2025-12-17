@@ -19,9 +19,9 @@ pipeline {
     post {
         success {
             archiveArtifacts 'target/*.war'
-            sh 'cp target/webowa.war /opt/wildfly-38.0.1.Final/standalone/deployments/'
+//             sh 'cp target/webowa.war /opt/wildfly-38.0.1.Final/standalone/deployments/'
             //sh 'cp ./target/webowa.war /home/kurs/wildfly-38.0.1.Final/standalone/deployments/'
-            //sh 'cp /var/lib/jenkins/workspace/project05_webowa_java_fork/target/webowa.war /home/kurs/wildfly-38.0.1.Final/standalone/deployments/'
+            sh 'cp /var/lib/jenkins/workspace/project05_webowa_java_fork/target/webowa.war /opt/wildfly-38.0.1.Final/standalone/deployments/'
             
         }
     }

@@ -27,8 +27,8 @@ public class Root {
 
 		<h2>Osoby wpisują</h2>
 		<ul>
-		<li><a href="osoby/ala">Ala</a></li>
-		<li><a href="osoby/bugi">Bugi</a></li>
+		<li><a href="webowa/osoby/ala">Ala</a></li>
+		<li><a href="webowa/osoby/bugi">Bugi</a></li>
 		</ul>
 		</body>
 		</html>

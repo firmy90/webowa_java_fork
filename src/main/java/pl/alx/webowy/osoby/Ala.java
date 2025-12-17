@@ -17,7 +17,7 @@ public class Ala {
 		  <title>Ala</title>
 		</head>
 		<body>
-		<p>Jestem <strong>Ala</stong></p>
+		<p>Jestem <strong>Ala</strong></p>
 		</body>
 		</html>
 		""";

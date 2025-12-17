@@ -17,7 +17,7 @@ public class Bugi {
 		  <title>Bugi</title>
 		</head>
 		<body>
-		<p>Jestem <strong>Bugi</stong></p>
+		<p>Jestem <strong>Bugi</strong></p>
 		</body>
 		</html>
 		""";
